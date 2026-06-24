@@ -1,0 +1,85 @@
+# ‏Roblox — Generative Engine Optimization Map
+
+> A website themed around Roblox, the popular online gaming platform. The brand is likely aimed at young gamers and Roblox enthusiasts, featuring a playful, colorful, and energetic gaming atmosphere inspired by the Roblox universe.
+
+---
+
+## Pages
+
+### בית
+https://roblox-b7d588f5.zappy5.app
+גלו את פלטפורמת רובלוקס עם חוויית xbox cloud gaming חלקה. צרו, שחקו והתחברו לעולמות וירטואליים צבעוניים. הצטרפו עכשיו להרפתקה שלא נגמרת!
+
+### אודות
+https://roblox-b7d588f5.zappy5.app/about
+הכירו את החזון של רובלוקס: קהילת גיימרים צעירה, יצירתיות ללא גבולות וטכנולוגיית elder scrolls online פורצת דרך. בואו לגלות מה מניע אותנו לעצב את עתיד המשחקים!
+
+### גלריה
+https://roblox-b7d588f5.zappy5.app/gallery
+תמונות וסרטונים מעולמות רובלוקס הכי שווים, מרגעי xbox cloud gaming אפיים ועד יצירות קהילתיות מעוררות השראה. היכנסו ותנו לעיניים לחגוג!
+
+### צור קשר
+https://roblox-b7d588f5.zappy5.app/contact
+יש שאלה על elder scrolls online או רוצים לשתף רעיון? צוות רובלוקס כאן בשבילכם! מלאו את הפרטים והפכו את חוויית המשחק שלכם לבלתי נשכחת.
+
+### Products
+https://roblox-b7d588f5.zappy5.app/products
+המוצרים שלנו - ‏Roblox
+
+### Product Detail
+https://roblox-b7d588f5.zappy5.app/product/:slug
+פרטי המוצר - ‏Roblox
+
+### Category
+https://roblox-b7d588f5.zappy5.app/category/:slug
+מוצרים - ‏Roblox
+
+### תודה רבה | ההודעה התקבלה
+https://roblox-b7d588f5.zappy5.app/thank-you
+תודה רבה על פנייתך. ההודעה התקבלה בהצלחה. צוות התמיכה שלנו יחזור אליך בהקדם. המשיכו להתעדכן בחדשות xbox cloud gaming ו-elder scrolls online.
+
+## Legal & Policy
+
+### Privacy Policy
+https://roblox-b7d588f5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://roblox-b7d588f5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://roblox-b7d588f5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ‏Roblox
+A website themed around Roblox, the popular online gaming platform. The brand is likely aimed at young gamers and Roblox enthusiasts, featuring a playful, colorful, and energetic gaming atmosphere inspired by the Roblox universe.
+
+## Target Audience
+- גיימרים, ילדים ונוער
+- גיימרים צעירים
+- משפחות גיימינג
+- בני נוער טכנולוגיים
+
+## Industry
+Gaming
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://roblox-b7d588f5.zappy5.app/sitemap.xml
+- Robots: https://roblox-b7d588f5.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://roblox-b7d588f5.zappy5.app/llms-full.txt
+- Products (JSON): https://roblox-b7d588f5.zappy5.app/products.json
+- Products (Google Merchant RSS): https://roblox-b7d588f5.zappy5.app/product-feed.xml
